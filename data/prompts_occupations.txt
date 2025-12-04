@@ -1,0 +1,256 @@
+an accountant
+an actor
+an actuary
+an acupuncturist
+an advertising manager
+an aerospace engineer
+an agricultural scientist
+an air traffic controller
+an aircraft mechanic
+an ambulance driver
+an anesthesiologist
+an animal trainer
+an anthropologist
+an app developer
+an archaeologist
+an architect
+an archivist
+an art director
+an art teacher
+an assembler
+an astronomer
+an athletic trainer
+an attorney
+an audiologist
+a baker
+a barber
+a bartender
+a biochemist
+a biologist
+a biomedical engineer
+a bookkeeper
+a botanist
+a broadcast technician
+a bus driver
+a business analyst
+a butcher
+a cab driver
+a camera operator
+a carpenter
+a cartographer
+a cashier
+a chef
+a chemical engineer
+a chemist
+a chiropractor
+a civil engineer
+a claims adjuster
+a clergy
+a coach
+a computer programmer
+a concierge
+a construction manager
+a copywriter
+a correctional officer
+a cost estimator
+a court reporter
+a crane operator
+a credit analyst
+a curator
+a customer service representative
+a dancer
+a data analyst
+a data scientist
+a database administrator
+a delivery driver
+a dental assistant
+a dentist
+a detective
+a dietitian
+a director
+a dispatcher
+a doctor
+a dog groomer
+a driver
+an economist
+an editor
+an electrician
+an elementary school teacher
+an EMT
+an engineer
+an environmental scientist
+an event planner
+an executive assistant
+a farmer
+a fashion designer
+a film director
+a financial advisor
+a firefighter
+a fisherman
+a fitness trainer
+a flight attendant
+a florist
+a food scientist
+a forensic scientist
+a game designer
+a garbage collector
+a geologist
+a graphic designer
+a hair stylist
+a handyman
+a health inspector
+a historian
+a home health aide
+a hotel manager
+a housekeeper
+a human resources manager
+a HVAC technician
+an illustrator
+an industrial designer
+an information security analyst
+an insurance agent
+an interior designer
+an interpreter
+an investigator
+an IT manager
+a janitor
+a jeweler
+a journalist
+a judge
+a laboratory technician
+a landscaper
+a lawyer
+a librarian
+a loan officer
+a locksmith
+a logistician
+a machinist
+a magistrate
+a makeup artist
+a management consultant
+a manicurist
+a marine biologist
+a marketing manager
+a massage therapist
+a mathematician
+a mechanical engineer
+a medical assistant
+a medical laboratory technician
+a meteorologist
+a microbiologist
+a middle school teacher
+a model
+a mortgage broker
+a musician
+a network administrator
+a neuroscientist
+a nurse
+a nutritionist
+an occupational therapist
+an office clerk
+an operations manager
+an optician
+an optometrist
+a painter
+a paramedic
+a park ranger
+a pathologist
+a personal trainer
+a pharmacist
+a photographer
+a physical therapist
+a physician
+a physicist
+a pilot
+a plumber
+a police officer
+a political scientist
+a postal worker
+a principal
+a private investigator
+a producer
+a product manager
+a professor
+a program manager
+a project manager
+a property manager
+a psychiatrist
+a psychologist
+a public relations specialist
+a purchasing agent
+a quality control inspector
+a radiologic technologist
+a real estate agent
+a receptionist
+a recreational therapist
+a registered nurse
+a reporter
+a research assistant
+a respiratory therapist
+a retail manager
+a roofer
+a safety inspector
+a sales manager
+a sales representative
+a school counselor
+a scientist
+a screenwriter
+a security guard
+a sheet metal worker
+a ship captain
+a social media manager
+a social worker
+a software developer
+a solar panel installer
+a sound engineer
+a speech pathologist
+a statistician
+a stockbroker
+a surgeon
+a surveyor
+a system administrator
+a tailor
+a tattoo artist
+a teacher
+a technical writer
+a telemarketer
+a therapist
+a tour guide
+a translator
+a travel agent
+a truck driver
+a tutor
+an UI/UX designer
+an underwriter
+an urban planner
+a veterinarian
+a video editor
+a virtual assistant
+a waiter
+a warehouse worker
+a web developer
+a welder
+a writer
+a zookeeper
+a zoo veterinarian
+a blockchain developer
+a cybersecurity analyst
+a data engineer
+a devops engineer
+a drone operator
+an E-commerce manager
+an ethical hacker
+a game tester
+an influencer manager
+a logistics coordinator
+a machine learning engineer
+a patent lawyer
+a product designer
+a robotics engineer
+a SEO specialist
+a software tester
+a supply chain analyst
+an UX researcher
+a visual effects artist
+a voice actor
+a wind turbine technician

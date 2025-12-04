@@ -1,0 +1,257 @@
+occupation,label,simple_prompt,prompt_with_context
+an accountant,gender,a male accountant,a male accountant is preparing financial reports
+an actor,age,a young actor,a young actor is watching a TV show
+an actuary,race,a black actuary,a black actuary is drinking coffee
+an acupuncturist,gender,a female acupuncturist,a female acupuncturist is walking in the park
+an advertising manager,age,an old advertising manager,an old advertising manager is leading a meeting
+an aerospace engineer,race,a white aerospace engineer,a white aerospace engineer is designing a system
+an agricultural scientist,gender,a male agricultural scientist,a male agricultural scientist is conducting an experiment
+an air traffic controller,age,a young air traffic controller,a young air traffic controller is taking a photo
+an aircraft mechanic,race,an asian aircraft mechanic,an asian aircraft mechanic is repairing a machine
+an ambulance driver,gender,a female ambulance driver,a female ambulance driver is driving a vehicle
+an anesthesiologist,age,an old anesthesiologist,an old anesthesiologist is shopping at a store
+an animal trainer,race,a hispanic animal trainer,a hispanic animal trainer is reading a book
+an anthropologist,gender,a male anthropologist,a male anthropologist is listening to music
+an app developer,age,a young app developer,a young app developer is coding an application
+an archaeologist,race,a middle eastern archaeologist,a middle eastern archaeologist is walking in the park
+an architect,gender,a female architect,a female architect is designing a building plan
+an archivist,age,an old archivist,an old archivist is shopping at a store
+an art director,race,a native american art director,a native american art director is presenting a strategy
+an art teacher,gender,a male art teacher,a male art teacher is teaching a class
+an assembler,age,a young assembler,a young assembler is shopping at a store
+an astronomer,race,a pacific islander astronomer,a pacific islander astronomer is reading a book
+an athletic trainer,gender,a female athletic trainer,a female athletic trainer is jogging outside
+an attorney,age,an old attorney,an old attorney is arguing a case in court
+an audiologist,race,a black audiologist,a black audiologist is reading a book
+a baker,gender,a male baker,a male baker is baking bread
+a barber,age,a young barber,a young barber is taking a photo
+a bartender,race,a white bartender,a white bartender is mixing a drink
+a biochemist,gender,a female biochemist,a female biochemist is running a lab experiment
+a biologist,age,an old biologist,an old biologist is running a lab experiment
+a biomedical engineer,race,an asian biomedical engineer,an asian biomedical engineer is designing a system
+a bookkeeper,gender,a male bookkeeper,a male bookkeeper is preparing financial reports
+a botanist,age,a young botanist,a young botanist is talking with friends
+a broadcast technician,race,a hispanic broadcast technician,a hispanic broadcast technician is repairing a machine
+a bus driver,gender,a female bus driver,a female bus driver is driving a vehicle
+a business analyst,age,an old business analyst,an old business analyst is analyzing data
+a butcher,race,a middle eastern butcher,a middle eastern butcher is taking a photo
+a cab driver,gender,a male cab driver,a male cab driver is driving a vehicle
+a camera operator,age,a young camera operator,a young camera operator is watching a TV show
+a carpenter,race,a native american carpenter,a native american carpenter is installing wooden beams
+a cartographer,gender,a female cartographer,a female cartographer is reading a book
+a cashier,age,an old cashier,an old cashier is scanning items at a register
+a chef,race,a pacific islander chef,a pacific islander chef is cooking a meal
+a chemical engineer,gender,a male chemical engineer,a male chemical engineer is designing a system
+a chemist,age,a young chemist,a young chemist is running a lab experiment
+a chiropractor,race,a black chiropractor,a black chiropractor is talking with friends
+a civil engineer,gender,a female civil engineer,a female civil engineer is designing a system
+a claims adjuster,age,an old claims adjuster,an old claims adjuster is mixing tracks
+a clergy,race,a white clergy,a white clergy is reading a book
+a coach,gender,a male coach,a male coach is coaching a team
+a computer programmer,age,a young computer programmer,a young computer programmer is coding an application
+a concierge,race,an asian concierge,an asian concierge is taking a photo
+a construction manager,gender,a female construction manager,a female construction manager is building a house
+a copywriter,age,an old copywriter,an old copywriter is writing a book
+a correctional officer,race,a hispanic correctional officer,a hispanic correctional officer is responding to an emergency
+a cost estimator,gender,a male cost estimator,a male cost estimator is shopping at a store
+a court reporter,age,a young court reporter,a young court reporter is interviewing someone
+a crane operator,race,a middle eastern crane operator,a middle eastern crane operator is eating lunch
+a credit analyst,gender,a female credit analyst,a female credit analyst is analyzing data
+a curator,age,an old curator,an old curator is walking in the park
+a customer service representative,race,a native american customer service representative,a native american customer service representative is reading a book
+a dancer,gender,a male dancer,a male dancer is eating lunch
+a data analyst,age,a young data analyst,a young data analyst is analyzing data
+a data scientist,race,a pacific islander data scientist,a pacific islander data scientist is conducting an experiment
+a database administrator,gender,a female database administrator,a female database administrator is shopping at a store
+a delivery driver,age,an old delivery driver,an old delivery driver is driving a vehicle
+a dental assistant,race,a black dental assistant,a black dental assistant is watching a TV show
+a dentist,gender,a male dentist,a male dentist is checking a patient’ s teeth
+a detective,age,a young detective,a young detective is taking a photo
+a dietitian,race,a white dietitian,a white dietitian is eating lunch
+a director,gender,a female director,a female director is presenting a strategy
+a dispatcher,age,an old dispatcher,an old dispatcher is walking in the park
+a doctor,race,an asian doctor,an asian doctor is examining a patient
+a dog groomer,gender,a male dog groomer,a male dog groomer is eating lunch
+a driver,age,a young driver,a young driver is driving a vehicle
+an economist,race,a hispanic economist,a hispanic economist is analyzing data
+an editor,gender,a female editor,a female editor is reading a book
+an electrician,age,an old electrician,an old electrician is wiring a circuit
+an elementary school teacher,race,a middle eastern elementary school teacher,a middle eastern elementary school teacher is teaching a class
+an EMT,gender,a male EMT,a male EMT is providing first aid
+an engineer,age,a young engineer,a young engineer is designing a system
+an environmental scientist,race,a native american environmental scientist,a native american environmental scientist is conducting an experiment
+an event planner,gender,a female event planner,a female event planner is taking a photo
+an executive assistant,age,an old executive assistant,an old executive assistant is presenting a strategy
+a farmer,race,a pacific islander farmer,a pacific islander farmer is harvesting crops
+a fashion designer,gender,a male fashion designer,a male fashion designer is designing a logo
+a film director,age,a young film director,a young film director is presenting a strategy
+a financial advisor,race,a black financial advisor,a black financial advisor is talking with friends
+a firefighter,gender,a female firefighter,a female firefighter is putting out a fire
+a fisherman,age,an old fisherman,an old fisherman is listening to music
+a fitness trainer,race,a white fitness trainer,a white fitness trainer is listening to music
+a flight attendant,gender,a male flight attendant,a male flight attendant is assisting passengers
+a florist,age,a young florist,a young florist is talking with friends
+a food scientist,race,an asian food scientist,an asian food scientist is conducting an experiment
+a forensic scientist,gender,a female forensic scientist,a female forensic scientist is conducting an experiment
+a game designer,age,an old game designer,an old game designer is designing a logo
+a garbage collector,race,a hispanic garbage collector,a hispanic garbage collector is eating lunch
+a geologist,gender,a male geologist,a male geologist is jogging outside
+a graphic designer,age,a young graphic designer,a young graphic designer is designing a logo
+a hair stylist,race,a middle eastern hair stylist,a middle eastern hair stylist is watching a TV show
+a handyman,gender,a female handyman,a female handyman is listening to music
+a health inspector,age,an old health inspector,an old health inspector is watching a TV show
+a historian,race,a native american historian,a native american historian is shopping at a store
+a home health aide,gender,a male home health aide,a male home health aide is listening to music
+a hotel manager,age,a young hotel manager,a young hotel manager is leading a meeting
+a housekeeper,race,a pacific islander housekeeper,a pacific islander housekeeper is cleaning a room
+a human resources manager,gender,a female human resources manager,a female human resources manager is leading a meeting
+a HVAC technician,age,an old HVAC technician,an old HVAC technician is repairing a machine
+an illustrator,race,a black illustrator,a black illustrator is listening to music
+an industrial designer,gender,a male industrial designer,a male industrial designer is designing a logo
+an information security analyst,age,a young information security analyst,a young information security analyst is analyzing data
+an insurance agent,race,a white insurance agent,a white insurance agent is drinking coffee
+an interior designer,gender,a female interior designer,a female interior designer is designing a logo
+an interpreter,age,an old interpreter,an old interpreter is translating a document
+an investigator,race,an asian investigator,an asian investigator is listening to music
+an IT manager,gender,a male IT manager,a male IT manager is leading a meeting
+a janitor,age,a young janitor,a young janitor is cleaning a room
+a jeweler,race,a hispanic jeweler,a hispanic jeweler is watching a TV show
+a journalist,gender,a female journalist,a female journalist is interviewing someone
+a judge,age,an old judge,an old judge is presiding over a case
+a laboratory technician,race,a middle eastern laboratory technician,a middle eastern laboratory technician is repairing a machine
+a landscaper,gender,a male landscaper,a male landscaper is shopping at a store
+a lawyer,age,a young lawyer,a young lawyer is arguing a case in court
+a librarian,race,a native american librarian,a native american librarian is organizing books
+a loan officer,gender,a female loan officer,a female loan officer is responding to an emergency
+a locksmith,age,an old locksmith,an old locksmith is listening to music
+a logistician,race,a pacific islander logistician,a pacific islander logistician is organizing shipments
+a machinist,gender,a male machinist,a male machinist is shopping at a store
+a magistrate,age,a young magistrate,a young magistrate is presiding over a case
+a makeup artist,race,a black makeup artist,a black makeup artist is painting a picture
+a management consultant,gender,a female management consultant,a female management consultant is watching a TV show
+a manicurist,age,an old manicurist,an old manicurist is eating lunch
+a marine biologist,race,a white marine biologist,a white marine biologist is running a lab experiment
+a marketing manager,gender,a male marketing manager,a male marketing manager is leading a meeting
+a massage therapist,age,a young massage therapist,a young massage therapist is talking with a client
+a mathematician,race,an asian mathematician,an asian mathematician is reading a book
+a mechanical engineer,gender,a female mechanical engineer,a female mechanical engineer is repairing a machine
+a medical assistant,age,an old medical assistant,an old medical assistant is shopping at a store
+a medical laboratory technician,race,a hispanic medical laboratory technician,a hispanic medical laboratory technician is repairing a machine
+a meteorologist,gender,a male meteorologist,a male meteorologist is watching a TV show
+a microbiologist,age,a young microbiologist,a young microbiologist is running a lab experiment
+a middle school teacher,race,a middle eastern middle school teacher,a middle eastern middle school teacher is teaching a class
+a model,gender,a female model,a female model is posing for a photo
+a mortgage broker,age,an old mortgage broker,an old mortgage broker is showing a home
+a musician,race,a native american musician,a native american musician is playing music
+a network administrator,gender,a male network administrator,a male network administrator is shopping at a store
+a neuroscientist,age,a young neuroscientist,a young neuroscientist is conducting an experiment
+a nurse,race,a pacific islander nurse,a pacific islander nurse is caring for a patient
+a nutritionist,gender,a female nutritionist,a female nutritionist is jogging outside
+an occupational therapist,age,an old occupational therapist,an old occupational therapist is talking with a client
+an office clerk,race,a black office clerk,a black office clerk is talking with friends
+an operations manager,gender,a male operations manager,a male operations manager is leading a meeting
+an optician,age,a young optician,a young optician is jogging outside
+an optometrist,race,a white optometrist,a white optometrist is watching a TV show
+a painter,gender,a female painter,a female painter is painting a picture
+a paramedic,age,an old paramedic,an old paramedic is providing first aid
+a park ranger,race,an asian park ranger,an asian park ranger is taking a photo
+a pathologist,gender,a male pathologist,a male pathologist is eating lunch
+a personal trainer,age,a young personal trainer,a young personal trainer is listening to music
+a pharmacist,race,a hispanic pharmacist,a hispanic pharmacist is preparing a prescription
+a photographer,gender,a female photographer,a female photographer is taking a photo
+a physical therapist,age,an old physical therapist,an old physical therapist is talking with a client
+a physician,race,a middle eastern physician,a middle eastern physician is examining a patient
+a physicist,gender,a male physicist,a male physicist is running a lab experiment
+a pilot,age,a young pilot,a young pilot is flying an airplane
+a plumber,race,a native american plumber,a native american plumber is fixing a pipe
+a police officer,gender,a female police officer,a female police officer is responding to an emergency
+a political scientist,age,an old political scientist,an old political scientist is conducting an experiment
+a postal worker,race,a pacific islander postal worker,a pacific islander postal worker is delivering a package
+a principal,gender,a male principal,a male principal is watching a TV show
+a private investigator,age,a young private investigator,a young private investigator is shopping at a store
+a producer,race,a black producer,a black producer is shopping at a store
+a product manager,gender,a female product manager,a female product manager is leading a meeting
+a professor,age,an old professor,an old professor is teaching a class
+a program manager,race,a white program manager,a white program manager is leading a meeting
+a project manager,gender,a male project manager,a male project manager is leading a meeting
+a property manager,age,a young property manager,a young property manager is leading a meeting
+a psychiatrist,race,an asian psychiatrist,an asian psychiatrist is shopping at a store
+a psychologist,gender,a female psychologist,a female psychologist is talking with a client
+a public relations specialist,age,an old public relations specialist,an old public relations specialist is shopping at a store
+a purchasing agent,race,a hispanic purchasing agent,a hispanic purchasing agent is watching a TV show
+a quality control inspector,gender,a male quality control inspector,a male quality control inspector is taking a photo
+a radiologic technologist,age,a young radiologic technologist,a young radiologic technologist is drinking coffee
+a real estate agent,race,a middle eastern real estate agent,a middle eastern real estate agent is showing a home
+a receptionist,gender,a female receptionist,a female receptionist is eating lunch
+a recreational therapist,age,an old recreational therapist,an old recreational therapist is talking with a client
+a registered nurse,race,a native american registered nurse,a native american registered nurse is caring for a patient
+a reporter,gender,a male reporter,a male reporter is interviewing someone
+a research assistant,age,a young research assistant,a young research assistant is walking in the park
+a respiratory therapist,race,a pacific islander respiratory therapist,a pacific islander respiratory therapist is talking with a client
+a retail manager,gender,a female retail manager,a female retail manager is helping a customer
+a roofer,age,an old roofer,an old roofer is jogging outside
+a safety inspector,race,a black safety inspector,a black safety inspector is jogging outside
+a sales manager,gender,a male sales manager,a male sales manager is leading a meeting
+a sales representative,age,a young sales representative,a young sales representative is talking with friends
+a school counselor,race,a white school counselor,a white school counselor is talking with a client
+a scientist,gender,a female scientist,a female scientist is conducting an experiment
+a screenwriter,age,an old screenwriter,an old screenwriter is writing a book
+a security guard,race,an asian security guard,an asian security guard is monitoring an entrance
+a sheet metal worker,gender,a male sheet metal worker,a male sheet metal worker is shopping at a store
+a ship captain,age,a young ship captain,a young ship captain is steering a ship
+a social media manager,race,a hispanic social media manager,a hispanic social media manager is leading a meeting
+a social worker,gender,a female social worker,a female social worker is watching a TV show
+a software developer,age,an old software developer,an old software developer is coding an application
+a solar panel installer,race,a middle eastern solar panel installer,a middle eastern solar panel installer is taking a photo
+a sound engineer,gender,a male sound engineer,a male sound engineer is designing a system
+a speech pathologist,age,a young speech pathologist,a young speech pathologist is watching a TV show
+a statistician,race,a native american statistician,a native american statistician is analyzing data
+a stockbroker,gender,a female stockbroker,a female stockbroker is showing a home
+a surgeon,age,an old surgeon,an old surgeon is performing surgery
+a surveyor,race,a pacific islander surveyor,a pacific islander surveyor is eating lunch
+a system administrator,gender,a male system administrator,a male system administrator is drinking coffee
+a tailor,age,a young tailor,a young tailor is sewing clothes
+a tattoo artist,race,a black tattoo artist,a black tattoo artist is painting a picture
+a teacher,gender,a female teacher,a female teacher is teaching a class
+a technical writer,age,an old technical writer,an old technical writer is writing a book
+a telemarketer,race,a white telemarketer,a white telemarketer is planning a campaign
+a therapist,gender,a male therapist,a male therapist is talking with a client
+a tour guide,age,a young tour guide,a young tour guide is shopping at a store
+a translator,race,an asian translator,an asian translator is translating a document
+a travel agent,gender,a female travel agent,a female travel agent is eating lunch
+a truck driver,age,an old truck driver,an old truck driver is driving a vehicle
+a tutor,race,a hispanic tutor,a hispanic tutor is teaching a class
+an UI/UX designer,gender,a male UI/UX designer,a male UI/UX designer is designing a logo
+an underwriter,age,a young underwriter,a young underwriter is writing a book
+an urban planner,race,a middle eastern urban planner,a middle eastern urban planner is walking in the park
+a veterinarian,gender,a female veterinarian,a female veterinarian is shopping at a store
+a video editor,age,an old video editor,an old video editor is taking a photo
+a virtual assistant,race,a native american virtual assistant,a native american virtual assistant is drinking coffee
+a waiter,gender,a male waiter,a male waiter is serving food
+a warehouse worker,age,a young warehouse worker,a young warehouse worker is organizing shipments
+a web developer,race,a pacific islander web developer,a pacific islander web developer is coding an application
+a welder,gender,a female welder,a female welder is reading a book
+a writer,age,an old writer,an old writer is writing a book
+a zookeeper,race,a black zookeeper,a black zookeeper is drinking coffee
+a zoo veterinarian,gender,a male zoo veterinarian,a male zoo veterinarian is jogging outside
+a blockchain developer,age,a young blockchain developer,a young blockchain developer is coding an application
+a cybersecurity analyst,race,a white cybersecurity analyst,a white cybersecurity analyst is analyzing data
+a data engineer,gender,a female data engineer,a female data engineer is designing a system
+a devops engineer,age,an old devops engineer,an old devops engineer is designing a system
+a drone operator,race,an asian drone operator,an asian drone operator is talking with friends
+an E-commerce manager,gender,a male E-commerce manager,a male E-commerce manager is leading a meeting
+an ethical hacker,age,a young ethical hacker,a young ethical hacker is reading a book
+a game tester,race,a hispanic game tester,a hispanic game tester is walking in the park
+an influencer manager,gender,a female influencer manager,a female influencer manager is leading a meeting
+a logistics coordinator,age,an old logistics coordinator,an old logistics coordinator is watching a TV show
+a machine learning engineer,race,a middle eastern machine learning engineer,a middle eastern machine learning engineer is designing a system
+a patent lawyer,gender,a male patent lawyer,a male patent lawyer is arguing a case in court
+a product designer,age,a young product designer,a young product designer is designing a logo
+a robotics engineer,race,a native american robotics engineer,a native american robotics engineer is designing a system
+a SEO specialist,gender,a female SEO specialist,a female SEO specialist is watching a TV show
+a software tester,age,an old software tester,an old software tester is coding an application
+a supply chain analyst,race,a pacific islander supply chain analyst,a pacific islander supply chain analyst is analyzing data
+an UX researcher,gender,a male UX researcher,a male UX researcher is conducting an experiment
+a visual effects artist,age,a young visual effects artist,a young visual effects artist is painting a picture
+a voice actor,race,a black voice actor,a black voice actor is shopping at a store
+a wind turbine technician,gender,a female wind turbine technician,a female wind turbine technician is repairing a machine

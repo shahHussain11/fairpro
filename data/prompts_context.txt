@@ -1,0 +1,256 @@
+a male accountant is preparing financial reports
+a young actor is watching a TV show
+a black actuary is drinking coffee
+a female acupuncturist is walking in the park
+an old advertising manager is leading a meeting
+a white aerospace engineer is designing a system
+a male agricultural scientist is conducting an experiment
+a young air traffic controller is taking a photo
+an asian aircraft mechanic is repairing a machine
+a female ambulance driver is driving a vehicle
+an old anesthesiologist is shopping at a store
+a hispanic animal trainer is reading a book
+a male anthropologist is listening to music
+a young app developer is coding an application
+a middle eastern archaeologist is walking in the park
+a female architect is designing a building plan
+an old archivist is shopping at a store
+a native american art director is presenting a strategy
+a male art teacher is teaching a class
+a young assembler is shopping at a store
+a pacific islander astronomer is reading a book
+a female athletic trainer is jogging outside
+an old attorney is arguing a case in court
+a black audiologist is reading a book
+a male baker is baking bread
+a young barber is taking a photo
+a white bartender is mixing a drink
+a female biochemist is running a lab experiment
+an old biologist is running a lab experiment
+an asian biomedical engineer is designing a system
+a male bookkeeper is preparing financial reports
+a young botanist is talking with friends
+a hispanic broadcast technician is repairing a machine
+a female bus driver is driving a vehicle
+an old business analyst is analyzing data
+a middle eastern butcher is taking a photo
+a male cab driver is driving a vehicle
+a young camera operator is watching a TV show
+a native american carpenter is installing wooden beams
+a female cartographer is reading a book
+an old cashier is scanning items at a register
+a pacific islander chef is cooking a meal
+a male chemical engineer is designing a system
+a young chemist is running a lab experiment
+a black chiropractor is talking with friends
+a female civil engineer is designing a system
+an old claims adjuster is mixing tracks
+a white clergy is reading a book
+a male coach is coaching a team
+a young computer programmer is coding an application
+an asian concierge is taking a photo
+a female construction manager is building a house
+an old copywriter is writing a book
+a hispanic correctional officer is responding to an emergency
+a male cost estimator is shopping at a store
+a young court reporter is interviewing someone
+a middle eastern crane operator is eating lunch
+a female credit analyst is analyzing data
+an old curator is walking in the park
+a native american customer service representative is reading a book
+a male dancer is eating lunch
+a young data analyst is analyzing data
+a pacific islander data scientist is conducting an experiment
+a female database administrator is shopping at a store
+an old delivery driver is driving a vehicle
+a black dental assistant is watching a TV show
+a male dentist is checking a patient’ s teeth
+a young detective is taking a photo
+a white dietitian is eating lunch
+a female director is presenting a strategy
+an old dispatcher is walking in the park
+an asian doctor is examining a patient
+a male dog groomer is eating lunch
+a young driver is driving a vehicle
+a hispanic economist is analyzing data
+a female editor is reading a book
+an old electrician is wiring a circuit
+a middle eastern elementary school teacher is teaching a class
+a male EMT is providing first aid
+a young engineer is designing a system
+a native american environmental scientist is conducting an experiment
+a female event planner is taking a photo
+an old executive assistant is presenting a strategy
+a pacific islander farmer is harvesting crops
+a male fashion designer is designing a logo
+a young film director is presenting a strategy
+a black financial advisor is talking with friends
+a female firefighter is putting out a fire
+an old fisherman is listening to music
+a white fitness trainer is listening to music
+a male flight attendant is assisting passengers
+a young florist is talking with friends
+an asian food scientist is conducting an experiment
+a female forensic scientist is conducting an experiment
+an old game designer is designing a logo
+a hispanic garbage collector is eating lunch
+a male geologist is jogging outside
+a young graphic designer is designing a logo
+a middle eastern hair stylist is watching a TV show
+a female handyman is listening to music
+an old health inspector is watching a TV show
+a native american historian is shopping at a store
+a male home health aide is listening to music
+a young hotel manager is leading a meeting
+a pacific islander housekeeper is cleaning a room
+a female human resources manager is leading a meeting
+an old HVAC technician is repairing a machine
+a black illustrator is listening to music
+a male industrial designer is designing a logo
+a young information security analyst is analyzing data
+a white insurance agent is drinking coffee
+a female interior designer is designing a logo
+an old interpreter is translating a document
+an asian investigator is listening to music
+a male IT manager is leading a meeting
+a young janitor is cleaning a room
+a hispanic jeweler is watching a TV show
+a female journalist is interviewing someone
+an old judge is presiding over a case
+a middle eastern laboratory technician is repairing a machine
+a male landscaper is shopping at a store
+a young lawyer is arguing a case in court
+a native american librarian is organizing books
+a female loan officer is responding to an emergency
+an old locksmith is listening to music
+a pacific islander logistician is organizing shipments
+a male machinist is shopping at a store
+a young magistrate is presiding over a case
+a black makeup artist is painting a picture
+a female management consultant is watching a TV show
+an old manicurist is eating lunch
+a white marine biologist is running a lab experiment
+a male marketing manager is leading a meeting
+a young massage therapist is talking with a client
+an asian mathematician is reading a book
+a female mechanical engineer is repairing a machine
+an old medical assistant is shopping at a store
+a hispanic medical laboratory technician is repairing a machine
+a male meteorologist is watching a TV show
+a young microbiologist is running a lab experiment
+a middle eastern middle school teacher is teaching a class
+a female model is posing for a photo
+an old mortgage broker is showing a home
+a native american musician is playing music
+a male network administrator is shopping at a store
+a young neuroscientist is conducting an experiment
+a pacific islander nurse is caring for a patient
+a female nutritionist is jogging outside
+an old occupational therapist is talking with a client
+a black office clerk is talking with friends
+a male operations manager is leading a meeting
+a young optician is jogging outside
+a white optometrist is watching a TV show
+a female painter is painting a picture
+an old paramedic is providing first aid
+an asian park ranger is taking a photo
+a male pathologist is eating lunch
+a young personal trainer is listening to music
+a hispanic pharmacist is preparing a prescription
+a female photographer is taking a photo
+an old physical therapist is talking with a client
+a middle eastern physician is examining a patient
+a male physicist is running a lab experiment
+a young pilot is flying an airplane
+a native american plumber is fixing a pipe
+a female police officer is responding to an emergency
+an old political scientist is conducting an experiment
+a pacific islander postal worker is delivering a package
+a male principal is watching a TV show
+a young private investigator is shopping at a store
+a black producer is shopping at a store
+a female product manager is leading a meeting
+an old professor is teaching a class
+a white program manager is leading a meeting
+a male project manager is leading a meeting
+a young property manager is leading a meeting
+an asian psychiatrist is shopping at a store
+a female psychologist is talking with a client
+an old public relations specialist is shopping at a store
+a hispanic purchasing agent is watching a TV show
+a male quality control inspector is taking a photo
+a young radiologic technologist is drinking coffee
+a middle eastern real estate agent is showing a home
+a female receptionist is eating lunch
+an old recreational therapist is talking with a client
+a native american registered nurse is caring for a patient
+a male reporter is interviewing someone
+a young research assistant is walking in the park
+a pacific islander respiratory therapist is talking with a client
+a female retail manager is helping a customer
+an old roofer is jogging outside
+a black safety inspector is jogging outside
+a male sales manager is leading a meeting
+a young sales representative is talking with friends
+a white school counselor is talking with a client
+a female scientist is conducting an experiment
+an old screenwriter is writing a book
+an asian security guard is monitoring an entrance
+a male sheet metal worker is shopping at a store
+a young ship captain is steering a ship
+a hispanic social media manager is leading a meeting
+a female social worker is watching a TV show
+an old software developer is coding an application
+a middle eastern solar panel installer is taking a photo
+a male sound engineer is designing a system
+a young speech pathologist is watching a TV show
+a native american statistician is analyzing data
+a female stockbroker is showing a home
+an old surgeon is performing surgery
+a pacific islander surveyor is eating lunch
+a male system administrator is drinking coffee
+a young tailor is sewing clothes
+a black tattoo artist is painting a picture
+a female teacher is teaching a class
+an old technical writer is writing a book
+a white telemarketer is planning a campaign
+a male therapist is talking with a client
+a young tour guide is shopping at a store
+an asian translator is translating a document
+a female travel agent is eating lunch
+an old truck driver is driving a vehicle
+a hispanic tutor is teaching a class
+a male UI/UX designer is designing a logo
+a young underwriter is writing a book
+a middle eastern urban planner is walking in the park
+a female veterinarian is shopping at a store
+an old video editor is taking a photo
+a native american virtual assistant is drinking coffee
+a male waiter is serving food
+a young warehouse worker is organizing shipments
+a pacific islander web developer is coding an application
+a female welder is reading a book
+an old writer is writing a book
+a black zookeeper is drinking coffee
+a male zoo veterinarian is jogging outside
+a young blockchain developer is coding an application
+a white cybersecurity analyst is analyzing data
+a female data engineer is designing a system
+an old devops engineer is designing a system
+an asian drone operator is talking with friends
+a male E-commerce manager is leading a meeting
+a young ethical hacker is reading a book
+a hispanic game tester is walking in the park
+a female influencer manager is leading a meeting
+an old logistics coordinator is watching a TV show
+a middle eastern machine learning engineer is designing a system
+a male patent lawyer is arguing a case in court
+a young product designer is designing a logo
+a native american robotics engineer is designing a system
+a female SEO specialist is watching a TV show
+an old software tester is coding an application
+a pacific islander supply chain analyst is analyzing data
+a male UX researcher is conducting an experiment
+a young visual effects artist is painting a picture
+a black voice actor is shopping at a store
+a female wind turbine technician is repairing a machine

@@ -1,0 +1,72 @@
+[
+  {
+    "prompt": "an actor",
+    "parameters": {
+      "system_prompt": "Describe an actor from a randomly selected diverse cultural background, ensuring the description reflects a range of roles, ages, genders, and physical characteristics without reinforcing stereotypes or biases.",
+      "seed": 0
+    }
+  },
+  {
+    "prompt": "an actor",
+    "parameters": {
+      "system_prompt": "Provide a detailed, accurate, and inclusive description of an individual depicted as an actor, ensuring the description reflects a diverse range of actors from different cultural backgrounds, genders, ages, and body types without reinforcing stereotypes or biases.",
+      "seed": 1
+    }
+  },
+  {
+    "prompt": "an actor",
+    "parameters": {
+      "system_prompt": "Provide a detailed, accurate, and inclusive description of an individual portrayed in an image, ensuring representation across various demographics including age, gender, ethnicity, and abilities. Avoid making assumptions about the subject's identity or characteristics based on stereotypes or cultural norms. Focus on observable details such as clothing, accessories, body language, and background context to create a comprehensive image description.",
+      "seed": 2
+    }
+  },
+  {
+    "prompt": "an actor",
+    "parameters": {
+      "system_prompt": "Provide a detailed, accurate, and globally inclusive description of an actor, considering their gender, age, ethnicity, and attire without making assumptions about their background or role. Include specific details such as their physical appearance, clothing, and any distinguishing features, while ensuring the description reflects a diverse range of actors from various cultural, ethnic, and socioeconomic backgrounds.",
+      "seed": 3
+    }
+  },
+  {
+    "prompt": "an actor",
+    "parameters": {
+      "system_prompt": "Describe an actor from a diverse range of cultural backgrounds, genders, ages, and abilities, ensuring the description reflects their unique appearance, attire, and context without perpetuating stereotypes.",
+      "seed": 4
+    }
+  },
+  {
+    "prompt": "an actor",
+    "parameters": {
+      "system_prompt": "Describe an individual in a variety of roles and contexts, such as an actor in a film, on a stage, or in a photo shoot, ensuring representation from different genders, ethnicities, ages, and cultures to avoid stereotypes and promote inclusivity.",
+      "seed": 5
+    }
+  },
+  {
+    "prompt": "an actor",
+    "parameters": {
+      "system_prompt": "Describe an actor from a diverse range of cultural backgrounds, ages, genders, and professions, ensuring the description reflects a wide array of roles and appearances without relying on stereotypes or assumptions.",
+      "seed": 6
+    }
+  },
+  {
+    "prompt": "an actor",
+    "parameters": {
+      "system_prompt": "Describe an individual in any role, emphasizing their unique characteristics, background, and appearance to ensure a diverse and inclusive representation.",
+      "seed": 7
+    }
+  },
+  {
+    "prompt": "an actor",
+    "parameters": {
+      "system_prompt": "Describe an actor from a diverse range of cultures, genders, ages, and backgrounds, ensuring the description reflects their unique appearance, style, and context without reinforcing stereotypes or biases.",
+      "seed": 8
+    }
+  },
+  {
+    "prompt": "an actor",
+    "parameters": {
+      "system_prompt": "Describe an actor from a randomly selected cultural background, ensuring the description reflects diverse roles, genders, and ages without perpetuating stereotypes.",
+      "seed": 9
+    }
+  }
+]
