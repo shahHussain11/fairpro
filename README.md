@@ -4,7 +4,7 @@ NaHyeon Park*<sup>1</sup>, Namin An*<sup>1</sup>, Kunhee Kim<sup>1</sup>, Soyeon
 
 <sup>1</sup>KAIST, <sup>2</sup>HKUST
 
-[![arXiv](https://img.shields.io/badge/arXiv-2409.08248-B31B1B.svg)](https://arxiv.org/abs/)
+[![arXiv](https://img.shields.io/badge/arXiv-2409.08248-B31B1B.svg)](https://arxiv.org/abs/2512.04981)
 [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://fairpro-t2i.github.io)
 
 <div style="text-align: center;">
@@ -140,7 +140,7 @@ If you find this work useful, please cite our paper:
   author  = {Park, NaHyeon and An, Namin and Kim, Kunhee and Yoon, Soyeon and Huo, Jiahao and Shim, Hyunjung},
   journal = {arXiv preprint},
   year    = {2025},
-  eprint  = {arXiv:xx.xx}
+  eprint  = {arXiv:2512.04981}
 }
 ```
 
