@@ -4,7 +4,7 @@ NaHyeon Park*<sup>1</sup>, Na Min An*<sup>1</sup>, Kunhee Kim<sup>1</sup>, Soyeo
 
 <sup>1</sup>KAIST, <sup>2</sup>HKUST
 
-[![arXiv](https://img.shields.io/badge/arXiv-2409.08248-B31B1B.svg)](https://arxiv.org/abs/2512.04981)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.04981-B31B1B.svg)](https://arxiv.org/abs/2512.04981)
 [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://fairpro-t2i.github.io)
 
 <div style="text-align: center;">
